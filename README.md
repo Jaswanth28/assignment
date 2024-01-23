@@ -2,8 +2,13 @@
 
 ## Overview
 
-This repository contains the solution for the assignment. The main solution file is `upscale_final.ipynb`, which is a Jupyter Notebook.
+This repository contains the solution for the assignment.
 
+## Prerequisites
+1. Please install the required packages before executing
+2. requirements are given below
+    - install pytorch fromc`https://pytorch.org/get-started/locally/` based on your system configuration
+    - install Real-ESRGAN as `pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git` in cmd
 ## Usage
 
 To use the solution, follow the steps below:
