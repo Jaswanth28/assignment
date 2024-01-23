@@ -13,7 +13,7 @@ This repository contains the solution for the assignment.
 
 To use the solution, follow the steps below:
 
-1. Open `upscale_final.ipynb` in Jupyter Notebook.
+1. Open `upscale_final.ipynb` in Jupyter Notebook or Visual Studio Code.
 2. Navigate to the main cell that contains input parameters.
 3. Modify the following input parameters based on your requirements:
 
