@@ -9,6 +9,7 @@ This repository contains the solution for the assignment.
 2. requirements are given below
     - install pytorch from https://pytorch.org/get-started/locally/ based on your system configuration
     - install Real-ESRGAN as `pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git` in cmd
+    
 ## Usage
 
 To use the solution, follow the steps below:
