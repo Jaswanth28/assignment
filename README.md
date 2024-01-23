@@ -1,5 +1,3 @@
-# Assignment Solution README
-
 ## Overview
 
 This repository contains the solution for the assignment.
